@@ -1,5 +1,5 @@
 /**
- * Clase Principal
+ * Clase Principals
  */
 public class Main {
     /**
