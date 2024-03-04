@@ -33,4 +33,11 @@ Una vez hemos hecho todo lo anterior, tenemos que fusionar los cambios en la ram
 Objetivo que tenemos que conseguir:
 **Realizar un solo commit en la main con el merge squash**
 ¿Como hacerlo?
+Yo lo que hice fue crear una nueva rama fusiones, en la que se fusionan las dde bases de datos y las de interface. Luego se hace squash a la main con la rama que hemos creada.
+Aunque creo que no me salio
 
+**Vaya, nos hemos olvidado del gitignore**
+
+Para eso solo tenemos que realizar un amend. Este comando lo que hará será realizar un cambio en el ultimo commit que hayamos hecho
+Añadimos el gitignore y luego hacemos amend al ultimo commit
+Mucho mejor hacerlo desde la consola
