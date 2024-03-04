@@ -35,3 +35,7 @@ Objetivo que tenemos que conseguir:
 ¿Como hacerlo?
 Yo lo que hice fue crear una nueva rama fusiones, en la que se fusionan las dde bases de datos y las de interface. Luego se hace squash a la main con la rama que hemos creada.
 Aunque creo que no me salio
+
+**Pusheamos todo**
+Ya hicimos push de la main, que creo que me salió todo mal, peor se hizo lo que se pudo
+1. hacemos el push de la rama readme con el readme de la misma manera de la que hicimos con cualquier rama
